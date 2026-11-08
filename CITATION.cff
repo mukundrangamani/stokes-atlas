@@ -1,6 +1,7 @@
 cff-version: 1.2.0
-message: "Please cite geodesicsWKB by Hewei Frederic Jia and Mukund Rangamani."
-title: "Stokes atlas accompanying geodesicsWKB"
+message: "Please cite Expiscating the black hole singularity in holography by Hewei Frederic Jia and Mukund Rangamani."
+title: "Stokes atlas accompanying Expiscating the black hole singularity in holography"
+url: "https://arxiv.org/abs/2611.abcde"
 type: software
 authors:
   - family-names: Jia
